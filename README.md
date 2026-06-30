@@ -6,7 +6,7 @@
 
 📁 폴더 구조
 
-- `programming_logic` : 프로그래밍 논리의 이해 (2026-1)
+- `Programming_Logic` : 프로그래밍 논리의 이해 (2026-1)
 - 추후 이수하는 컴퓨터공학 과목별 폴더 추가 예정
   - Data Structure
   - Computer Architecture

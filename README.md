@@ -7,6 +7,7 @@
 📁 폴더 구조
 
 - `Programming_Logic` : 프로그래밍 논리의 이해 (2026-1)
+- `Mobile_Software` : 모바일 소프트웨어 (2026-1)
 - 추후 이수하는 컴퓨터공학 과목별 폴더 추가 예정
   - Data Structure
   - Computer Architecture
